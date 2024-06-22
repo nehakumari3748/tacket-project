@@ -1,1 +1,1 @@
-# tacket-project
+# Teckat-intership
